@@ -1,6 +1,6 @@
 # 🚀 Customer Churn Prediction – Machine Learning Project
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Python](https://img.shields.io/badge/Python-3.1-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
